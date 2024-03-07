@@ -1,0 +1,23 @@
+h1{
+    color: #000000;
+    background-color: #DEDAC1;
+    border: 10px solid #DEDAC1;
+    border-radius: 5px;
+}
+h2{
+    color: #000000;
+    background-color: #DEDAC1;
+    border: 10px solid #DEDAC1;
+    border-radius: 5px;
+}
+img{
+
+    border-radius: 5px;
+    border-style: double;
+    width: 1000px;
+    height: 680px;
+
+}
+#2{
+    color: #000000
+}
