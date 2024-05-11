@@ -9,6 +9,6 @@ Este é o repositório para o site da Padaria Santo Antônio,sua padaria local f
 - Saiba mais sobre nossa história e compromisso com produtos de qualidade.
 - Entre em contato conosco para encomendas especiais e eventos.
 
-Estamos comprometidos em fornecer produtos frescos e deliciosos para a comunidade local. Visite nosso site para descobrir o que está assando hoje na Padaria Santo Antônio!
+Estamos comprometidos em fornecer produtos deliciosos para a comunidade local. Visite nosso site para descobrir o que está assando hoje na Padaria Santo Antônio!
 
 Site por Laís Cipriano 
